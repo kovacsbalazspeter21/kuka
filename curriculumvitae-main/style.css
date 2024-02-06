@@ -1,0 +1,92 @@
+body{
+    background-color: #303030;
+}
+
+ul{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+}
+
+#information{
+    background-color: teal;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-bottom: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#comment{
+    background-color: cornflowerblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-bottom: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 25px;
+}
+
+p{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+strong{
+    text-align: center;
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+}
+
+nav{
+    position: fixed;
+}
+
+#fm{
+    max-width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #C80A0A;
+}
+
+#kezdolap{
+    max-width: 80%;
+    background-color: #4790E2;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer{
+    text-align: center;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    border-bottom: 10%;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+footer:hover{
+    filter: invert(100%);
+}
+
+#footer{
+    width: 40px;
+}
+
+img:hover{
+    filter: invert(100%);
+}
+

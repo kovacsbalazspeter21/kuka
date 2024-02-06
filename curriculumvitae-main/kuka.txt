@@ -1,0 +1,33 @@
+<section id="information">
+        <ul>First name: Péter Balázs </ul>
+        <ul>Last name: Kovács</ul>
+        <ul>Gender: Male</ul>
+        <ul>Nationality: Hungarian</ul>
+        <ul>Place of birth: Budapest 08 (VIII.)</ul>
+        <ul>Date of birth: 15.02.2004.</ul>
+        <ul>Region: Budapest</ul>
+        <ul>Address: 2nd floor / 8th doors, 5th Zrínyi street</ul>
+        <ul>Zip code: 1195</ul>
+        <ul>Institution certifying legal status: BMSZC WESSELÉNYI, BUDAPEST XIV. KERÜLET</ul>
+        <ul>Working hours (school): Dayline</ul><br><br>
+        <ul>mother's first name: Andrea</ul>
+        <ul>Mother's last name: Kéméndi</ul>
+        <ul>Place of birth: Dunaharaszti</ul>
+        <ul>Date of birth: 27.05.1980.</ul><br>
+        <ul>(Students' association: EuDiákok)</ul>
+        <ul>Contact:</ul><br>
+        <ul>Email: kovacsbalazspeter15@gmail.com</ul>
+        <ul>Phone: 06 30 845 0880</ul>
+    </section>
+
+    <section id="comment">
+        <strong>Comment:</strong><br><br>
+        <p>
+        Dear employment service provider!<br>
+        I would like to apply for the job you have advertised.  
+        What you need to know about me, I am still in high school, studying Python, I have not done a similar range of work because of my age and because I have worked in the mechi, but I would like to work as a developer so that I can do as much programming as possible.  I like to do this, what I am good at is Python, Kotlin, C/C++, C#, SQL, py.SQlite3, WEB "programming" (html, css, pyscript, javascript); I am also familiar with the Linux operating system, I have only been using it for 2 and a half years, but I also have Windows.  Within Python, I've mostly worked with OpenCV, PyGame, OS, SQLite3, and the basic libraries (Random, math, net-tools, server, etc.), I want to make sure I'm capable of doing such a job, mostly to learn more about the job I want to do.<br>
+        <br><br><br>
+        Thanks in advance for your feedback!<br>
+        Have a nice day!
+        </p>
+    </section>
